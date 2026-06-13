@@ -1,0 +1,32 @@
+{
+  "name": "M Naufal Rizal Firdaus | Portfolio",
+  "short_name": "Flow",
+  "description": "Portofolio profesional M Naufal Rizal Firdaus - Web Developer & Logic Architect.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#22d3ee",
+  "orientation": "portrait-primary",
+"icons": [
+    {
+      "src": "/flow.png",
+      "sizes": "192x192 512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/mbg.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/mbg.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "platform": "desktop"
+    }
+  ]
+}
