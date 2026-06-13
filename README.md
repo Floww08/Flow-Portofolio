@@ -82,14 +82,5 @@ yarn build
 └── ...
 ```
 
-## 📬 Contact
-
-Interested in working together? Reach out to me!
-
-- **Email**: [gustigibranavattr@gmail.com](mailto:gustigibranavattr@gmail.com)
-- **LinkedIn**: [Muhammad Naufal Rizal Firdaus](https://www.linkedin.com/in/gusti-gibran-avattar-819455389/)
-- **GitHub**: [BranProHengker](https://github.com/BranProHengker)
-
----
 
  by **Muhammad Naufal Rizal Firdaus**
