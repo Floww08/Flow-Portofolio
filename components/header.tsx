@@ -67,7 +67,7 @@ export default function Header() {
             
             <div className="flex flex-col min-w-0">
               <span className="text-white font-bold text-sm leading-tight truncate">
-                M Naufal Rizal
+                FLOW
               </span>
               <span className="text-cyan-400 text-[9px] font-mono tracking-widest uppercase">
                 Portfolio

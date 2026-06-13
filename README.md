@@ -35,7 +35,7 @@ Make sure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/BranProHengker/portfolio-nextjs.git](https://github.com/BranProHengker/my-portfolio.git
+git clone https://github.com/Floww08/Flow-Portofolio.git
 cd potrfolio
 ```
 
